@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Seja Bem vindo ao meu Perfil! 👋
+* se apresentar
+* Sou o kaique e estou cursando tecnologia, 
+* criando programação no P5js e scratch
+* 
 <!--
 **KaiqueFZ/KaiqueFZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
