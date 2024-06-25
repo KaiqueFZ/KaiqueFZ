@@ -1,8 +1,10 @@
 ## Seja Bem vindo ao meu Perfil! 👋
-* se apresentar
-* Sou o kaique e estou cursando tecnologia, 
+* Sou o kaique e estou cursando tecnologia 
 * criando programação no P5js e scratch
-* 
+* utilizo esse espaço para a organizaçao e compartilhamento de projetos feitos em sala de aula
+  
+* Meu Contato :📬
+* kaiquefaria016@gmail.com
 <!--
 **KaiqueFZ/KaiqueFZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
