@@ -1,7 +1,7 @@
 ## Seja Bem vindo ao meu Perfil! 👋
 * Sou o kaique e estou cursando tecnologia 
 * criando programação no P5js e scratch
-* utilizo esse espaço para a organizaçao e compartilhamento de projetos feitos em sala de aula
+* utilizo esse espaço para a organizaçao e compartilhamento de projetos feitos em sala de aula e sozinho 
   
 * Meu Contato :📬
 * kaiquefaria016@gmail.com
